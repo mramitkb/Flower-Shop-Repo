@@ -34,6 +34,7 @@ font-family: 'Open Sans', sans-serif;
     color: white;
     border: none;
     cursor: pointer;
+    font-size: 20px;
 }
 .btn:hover{
     background-color: #b6304d;
@@ -90,4 +91,25 @@ font-family: 'Open Sans', sans-serif;
     color: rgba(39, 39, 39, 0.80);
     font-size: 24px;
     font-weight: 600;
+}
+.sales-offer{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 24px;
+}
+.off{
+    color: #E55473;
+}
+.sales-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 620px;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    margin-top: 128px;
+}
+.sales{
+    text-align: center;
 }
