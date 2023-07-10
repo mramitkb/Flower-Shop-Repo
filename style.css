@@ -71,5 +71,23 @@ font-family: 'Open Sans', sans-serif;
     line-height: 35px;
     font-size: 24px;
     font-weight: 700;
-
+}
+.service-container{
+    height: 320px;
+    margin: 120px 240px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+}
+.service-photo{
+    text-align: center;
+}
+.talk{
+    text-align: center;
+    margin-top: 24px;
+    color: rgba(39, 39, 39, 0.80);
+    font-size: 24px;
+    font-weight: 600;
 }
