@@ -39,6 +39,9 @@ font-family: 'Open Sans', sans-serif;
 .btn:hover{
     background-color: #b6304d;
 }
+.head-flower{
+    padding-top: 50px;
+}
 .title-info{
     text-align: center;
     font-size: 40px;
@@ -46,15 +49,15 @@ font-family: 'Open Sans', sans-serif;
     margin-top: 170px;
     margin-bottom: 24px;
 }
-.fphoto-one{
+.photo-one{
     border-radius: 300px 300px 0px 0px;
     background: rgba(167, 33, 98, 0.15);
 }
-.fphoto-two{
+.photo-two{
     border-radius: 300px 300px 0px 0px;
     background: rgba(5, 151, 160, 0.15);
 }
-.fphoto-three{
+.photo-three{
     border-radius: 300px 300px 0px 0px;
     background: rgba(71, 125, 17, 0.15);
 }
