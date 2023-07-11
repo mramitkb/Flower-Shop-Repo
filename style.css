@@ -53,21 +53,34 @@ font-family: 'Open Sans', sans-serif;
     margin-bottom: 24px;
 }
 .photo-one{
+    height: 428px;
+    width: 310px;
+    background-repeat: no-repeat;
+    padding: 110px 78px 0px 76px;
     border-radius: 300px 300px 0px 0px;
     background: rgba(167, 33, 98, 0.15);
 }
 .photo-two{
+    height: 370px;
+    width: 370px;
+    background-repeat: no-repeat;
+    padding: 117px 47px 51px 47px;
     border-radius: 300px 300px 0px 0px;
     background: rgba(5, 151, 160, 0.15);
 }
 .photo-three{
+    height: 471px;
+    width: 314px;
+    background-repeat: no-repeat;
+    padding: 67px 75px 0px 75px;
+    background-size: 538px 464px;
     border-radius: 300px 300px 0px 0px;
     background: rgba(71, 125, 17, 0.15);
 }
 .three-flowers{
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: center;
     gap: 24px;
     margin: 0px 240px 0px;
     margin-top: 48px;
