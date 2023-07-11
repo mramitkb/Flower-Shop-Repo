@@ -220,7 +220,7 @@ input::placeholder{
 .review{
     padding: 30px;
     border-radius: 5px;
-    background: #d8f5c3;
+    background: rgb(221, 243, 221);
     box-shadow: 0px 6px 50px 0px rgba(26, 23, 23, 0.06);
 }
 .five{
@@ -238,4 +238,7 @@ input::placeholder{
 #amit{
     text-decoration: none;
     color: green;
+}
+.review:hover{
+    background-color: rgba(169, 214, 169, 0.726);
 }
