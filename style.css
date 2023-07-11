@@ -232,12 +232,12 @@ input::placeholder{
     padding-top: 0px;
 }
 .amit{
-    color: green;
+    color: rgba(255, 255, 255, 0.40);
     cursor: pointer;
 }
 #amit{
     text-decoration: none;
-    color: green;
+    color: rgba(255, 255, 255, 0.40);
 }
 .review:hover{
     background-color: rgba(169, 214, 169, 0.726);
