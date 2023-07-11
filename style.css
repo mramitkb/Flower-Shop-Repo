@@ -128,3 +128,30 @@ font-family: 'Open Sans', sans-serif;
     gap: 24px;
     margin: 48px 240px 128px;
 }
+.subscribe-container{
+    background-image: url('./Rectangle\ 9.png');
+    margin: 120px 120px;
+    height: 450px;
+    border-radius: 8px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+
+}
+.subs-title{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    padding-top: 120px;
+}
+.subs-email{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+input{
+    padding: 25px 100px;
+    border: none;
+    border-radius: 8px;
+    color: rgba(39, 39, 39, 0.60);
+}
