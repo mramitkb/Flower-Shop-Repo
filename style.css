@@ -91,6 +91,7 @@ font-family: 'Open Sans', sans-serif;
     line-height: 35px;
     font-size: 24px;
     font-weight: 700;
+    cursor: pointer;
 }
 .service-container{
     height: 320px;
@@ -202,4 +203,39 @@ input::placeholder{
     color: rgba(39, 39, 39, 0.60);
     position: absolute;
     left: 22px;
+}
+.customer-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 20px;
+    text-align: center;
+    margin-bottom: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.name{
+    font-size: 20px;
+}
+.review{
+    padding: 30px;
+    border-radius: 5px;
+    background: #d8f5c3;
+    box-shadow: 0px 6px 50px 0px rgba(26, 23, 23, 0.06);
+}
+.five{
+    height: 100px;
+    width: 100px;
+}
+.comment{
+    margin-top: 0px;
+    padding-top: 0px;
+}
+.amit{
+    color: green;
+    cursor: pointer;
+}
+#amit{
+    text-decoration: none;
+    color: green;
 }
