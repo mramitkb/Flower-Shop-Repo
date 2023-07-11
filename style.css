@@ -150,10 +150,10 @@ font-family: 'Open Sans', sans-serif;
     text-align: center;
 }
 input{
+    margin-right: 20px;
     padding: 25px 100px;
     border: none;
     border-radius: 8px;
-    color: rgba(39, 39, 39, 0.60);
 }
 .footer-container{
     background-color: black;
@@ -181,4 +181,9 @@ input{
 .copyright{
     color: rgba(255, 255, 255, 0.40);   
     margin-top: 32px;
+}
+input::placeholder{
+    color: rgba(39, 39, 39, 0.60);
+    position: absolute;
+    left: 22px;
 }
