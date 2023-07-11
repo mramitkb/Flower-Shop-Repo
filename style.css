@@ -155,3 +155,30 @@ input{
     border-radius: 8px;
     color: rgba(39, 39, 39, 0.60);
 }
+.footer-container{
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 450px;
+}
+.footer-logo{
+    font-size: 48px;
+    font-weight: 800;
+    padding-top: 120px;
+}
+.flower{
+    color: #E55473;
+}
+.shop{
+    color: white;
+}
+.footer-para{
+    text-align: center;
+    font-size: 18px;
+    color: rgba(255, 255, 255, 0.90);
+    padding-top: 24px;
+}
+.copyright{
+    color: rgba(255, 255, 255, 0.40);   
+    margin-top: 32px;
+}
