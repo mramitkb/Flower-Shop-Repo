@@ -115,4 +115,9 @@ font-family: 'Open Sans', sans-serif;
 }
 .sales{
     text-align: center;
+    padding: 0px 150px;
+}
+.instagram .main-title{
+    padding: 0px 300px;
+    margin-bottom: 48px;
 }
