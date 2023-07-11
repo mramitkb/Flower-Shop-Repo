@@ -121,3 +121,10 @@ font-family: 'Open Sans', sans-serif;
     padding: 0px 300px;
     margin-bottom: 48px;
 }
+.four-flowers-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 24px;
+    margin: 48px 240px 128px;
+}
